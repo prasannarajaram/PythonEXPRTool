@@ -38,10 +38,3 @@ class InputFileReader:
 
 
 input_file_reader = InputFileReader(input_file)
-# units_phases_data = input_file_reader.read_sheet('UnitsPhases')
-# storage_tank_data = input_file_reader.read_sheet('GenericStorageTank')
-# generic_blender_data = input_file_reader.read_sheet('GenericBlender')
-# generic_manual_unit_data = input_file_reader.read_sheet('GenericManualUnit')
-# generic_premixer_data = input_file_reader.read_sheet('GenericPremixer')
-# generic_reactor_data = input_file_reader.read_sheet('GenericReactor')
-# generic_packaging_data = input_file_reader.read_sheet('GenericRePackaging')
